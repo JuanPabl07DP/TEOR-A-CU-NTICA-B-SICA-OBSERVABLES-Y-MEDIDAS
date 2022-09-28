@@ -1,6 +1,4 @@
 # Teoria Cuantica Basica
-# Prerrequisitos
-La libreria puede ser importada en python 3.6
 
 # Instrucciones
 El archivo esta listo para correrse con la instruccion "import Ejercicios * "
