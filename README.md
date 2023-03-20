@@ -1,4 +1,4 @@
-# Teoria Cuantica Basica
+Teoría cuántica básica, Observables y Medidas
 
 # Instrucciones
 El archivo esta listo para correrse con la instruccion "import Ejercicios * "
