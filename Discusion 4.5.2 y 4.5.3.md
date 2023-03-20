@@ -1,4 +1,4 @@
-# 4.5.2 y 4.5.3
+# 4.5.2 y 4.5.3:
 
 Postulate 4.5.1 Assume we have two independent quantum systems Q and Q , represented respectively by the vector spaces V and V . The quantum system obtained by merging Qand Q will have the tensor product V ⊗ V as a state space.
 
